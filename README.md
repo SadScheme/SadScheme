@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hey Everyone</h2>
-
 <h3> “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”</h3>
 
 - I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
@@ -26,5 +24,5 @@ Here are some ideas to get you started:
 - Pronouns: he/him
 - Fun fact: 
 	- Football is my oxygen and I'm a big Real madrid fan
-	- If you watch anime specially [***One piece***](), you've already gotten a massive respect from my side
+	- If you watch anime specially ***One piece***, you've already gotten a massive respect from my side
 	- Love Gaming and try to build some in my spare time too
