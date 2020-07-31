@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
-________________________________________________________________________________________________________________________
-- I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
-- I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
-- How to reach me: 
+
+- 🔭 I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
+- 🌱 I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
+- 📫 How to reach me: 
 	1. Phone : +919828842222
 	2. Email : abhinavtan90@gmail.com
-- Pronouns: he/him
-- Fun fact: 
+- 😄 Pronouns: he/him
+- ⚡  Fun fact: 
 	- Football is my oxygen and I'm a big Real madrid fan
 	- If you watch anime specially ***One piece***, you've already gotten a massive respect from my side
 	- Love Gaming and try to build some in my spare time too
