@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
 - 📫 How to reach me: 
 	1. Phone : +919828842222
-	2. Email  : abhinavtan90@gmail.com
+	2. Email                   : abhinavtan90@gmail.com
 - 😄 Pronouns: he/him
 - ⚡  Fun fact: 
 	- Football is my oxygen and I'm a big Real madrid fan
