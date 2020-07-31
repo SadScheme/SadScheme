@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 <h2>Hey Everyone</h2>
 
-<h3> “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.” <span>- Tobio Kageyama (Haikyuu Anime)</span></h3>
-<h3>“Life’s a bore if you don’t challenge yourself.” <h4>- Yu Nishinoya (Haikyuu Anime)</h4></h3>
+<h3> “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”</h3>
 
 - I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
 - I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
 - How to reach me: 
 	1. Phone : +919828842222
-	2. Email: abhinavtan90@gmail.com
+	2. Email : abhinavtan90@gmail.com
 - Pronouns: he/him
 - Fun fact: 
 	- Football is my oxygen and I'm a big Real madrid fan
