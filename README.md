@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3> “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”</h3>
 			\– Tobio Kageyama (Haikyuu Anime)
 <h3>“Life’s a bore if you don’t challenge yourself.”</h3>
-			\-  – Yu Nishinoya (Haikyuu Anime)
+			<p>- Yu Nishinoya (Haikyuu Anime)</p>
 
 - I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
 - I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
