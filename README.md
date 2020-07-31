@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
 ## Hi, I'm Abhinav 👋
-<img align="right" src="monkey-d-luffy-line-art-drawing-sketch.png">
+<img align="right" src="./monkey-d-luffy-line-art-drawing-sketch.png">
 - 🔭 I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
 - 🌱 I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
 - 💬 Ask me about Machine Learning, Deep Learning, Anime and Football⚽
