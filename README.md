@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github.com/SadScheme/SadScheme/blob/master/monkey-d-luffy-line-art-drawing-sketch.png" alt="Monkey D. Luffy" width=350px height=465px/>
+<img align="right" src="https://github.com/SadScheme/SadScheme/blob/master/luffy.jpg" alt="Monkey D. Luffy" width=350px height=465px/>
 ### “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
 ## Hi, I'm Abhinav 👋
 
