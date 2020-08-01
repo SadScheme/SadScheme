@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github.com/SadScheme/SadScheme/blob/master/luffy.jpg" alt="Monkey D. Luffy" width=350px height=465px/>
-### “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
+
+###  “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
 ## Hi, I'm Abhinav 👋
 
 - 🔭 I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
