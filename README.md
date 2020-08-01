@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github.com/SadScheme/SadScheme/blob/master/luffy.png" alt="Monkey D. Luffy" width=350px height=450px/>
+<img align="right" src="https://github.com/SadScheme/SadScheme/blob/master/luffy.png" alt="Monkey D. Luffy" />
 
 ## Hi, I'm Abhinav 👋
 
