@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github.com/SadScheme/SadScheme/blob/master/monkey-d-luffy-line-art-drawing-sketch.png" alt="Monkey D. Luffy" width=350px height=465px/>
 ### “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
 ## Hi, I'm Abhinav 👋
-<img align="right" src="./luffy.jpg">
+
 - 🔭 I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
 - 🌱 I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
 - 💬 Ask me about Machine Learning, Deep Learning, Anime and Football⚽
