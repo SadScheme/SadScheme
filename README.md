@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Abhinav 👋
 
 - 🔭 I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
-- 🌱 I’m currently learning Flutter, Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
+- 🌱 I’m currently learning Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
 - 💬 Ask me about Machine Learning, Deep Learning, Anime and Football⚽
 - 📫 How to reach me: 
 	1. Phone: +919828842222
