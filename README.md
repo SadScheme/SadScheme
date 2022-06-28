@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Abhinav 👋
 
-- 🔭 I’m currently working on ***Deep Learning and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
-- 🌱 I’m currently learning Web development to showcase my machine learning skills to everyone whilst also trying to learn GAN's
-- 💬 Ask me about Machine Learning, Deep Learning, Anime and Football⚽
+- 🔭 I’m currently working on ***DevOps and Machine Learning Models***; If you have a good idea and looking to collaborate I'm always up for it. 
+- 🌱 I’m currently learning Web development to showcase my machine learning and devops skills to everyone.
+- 💬 Ask me about DevOps, Deep Learning, Anime and Football⚽
 - 📫 How to reach me: 
-	1. Phone: +919828842222
+	1. Phone: +44 7826135952
 	2. Email: abhinavtan90@gmail.com
 - 😄 Pronouns: he/him
 - ⚡  Fun fact: 
 	- Football is my oxygen and I'm a big Real madrid fan
 	- If you watch anime specially ***One piece***, you've already gotten a massive respect from my side
-	- Love Gaming and try to build some in my spare time too
+	- Love system Design and try to learn more about the system design architecture of big companies in my spare time.
 
 ###  “The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong.”
